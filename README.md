@@ -1,28 +1,29 @@
-	
-Objective:
-Develop a machine learning model to predict sales prices with high accuracy using linear regression.
+# *SALES PRICE PREDICTION*
 
-Dataset Analysis:
-Utilized Pandas and NumPy for data preprocessing and exploratory data analysis. Identified key features and the target variable (sales price) for prediction.
+# *Objective*:
+- *Develop a machine learning model to predict sales prices with high accuracy using linear regression*.
 
-Data Splitting:
-Split the dataset into training (80%) and testing (20%) sets using Scikit-learn's train_test_split method. Ensured that the split maintains data variability for reliable model training and testing.
+# *Dataset Analysis*:
+- *Utilized Pandas and NumPy for data preprocessing and exploratory data analysis. Identified key features and the target variable (sales price) for prediction*.
 
-Machine Learning Algorithm:
-Implemented Linear Regression from Scikit-learn as the prediction model. Trained the model on the training set to learn relationships between features and sales price.
+# *Data Splitting*:
+- *Split the dataset into training (80%) and testing (20%) sets using Scikit-learn's train_test_split method. Ensured that the split maintains data variability for reliable model training and testing*.
 
-Model Evaluation:
-Evaluated the model on the testing set using metrics: Mean Squared Error (MSE): To measure prediction error. R-squared Score: To evaluate the model’s goodness-of-fit.
+# *Machine Learning Algorithm*:
+- *Implemented Linear Regression from Scikit-learn as the prediction model. Trained the model on the training set to learn relationships between features and sales price**.
 
-Visualization:
-Used Matplotlib to plot:
-Actual vs. Predicted sales prices for better interpretability. A regression line showing the model's predictions.
+# *Model Evaluation*:
+- *Evaluated the model on the testing set using metrics: Mean Squared Error (MSE): To measure prediction error. R-squared Score: To evaluate the model’s goodness-of-fit*.
 
-Tools and Libraries:
-Pandas, NumPy: For data manipulation and analysis. Scikit-learn: For data splitting, model building, and evaluation. Matplotlib: For data visualization.
+# *Visualization*:
+## *Used Matplotlib to plot*:
+- *Actual vs. Predicted sales prices for better interpretability. A regression line showing the model's predictions*.
 
-Outcome:
-Successfully predicted sales prices with good accuracy, demonstrating the effectiveness of linear regression for sales data. Provided insights into key factors influencing sales prices.
+# *Tools and Libraries*:
+- *Pandas, NumPy: For data manipulation and analysis. Scikit-learn: For data splitting, model building, and evaluation. Matplotlib: For data visualization*.
 
-Future Enhancements:
-Incorporate advanced regression techniques (e.g., Ridge, Lasso). Perform feature engineering and scaling for improved performance. Expand analysis to include additional datasets or features.# simple-_linear_-regression
+# *Outcome*:
+- *Successfully predicted sales prices with good accuracy, demonstrating the effectiveness of linear regression for sales data. Provided insights into key factors influencing sales prices*.
+
+# *Future Enhancements*:
+- *Incorporate advanced regression techniques (e.g., Ridge, Lasso). Perform feature engineering and scaling for improved performance. Expand analysis to include additional datasets or features.# simple-_linear_-regression*.
